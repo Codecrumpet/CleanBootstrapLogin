@@ -1,3 +1,5 @@
+#### Please note that this is an ongoing project and some features may be missing.
+
 # CleanBootstrapLogin
 A simple login page built using the Bootstrap framework.
 
